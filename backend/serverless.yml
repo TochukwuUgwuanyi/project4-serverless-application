@@ -65,6 +65,7 @@ provider:
     TODOS_CREATED_AT_INDEX: CreatedAtIndex
     ATTACHMENT_S3_BUCKET: serverless-todo-176654325514-${self:provider.stage}
     
+    
 
 
 functions:
